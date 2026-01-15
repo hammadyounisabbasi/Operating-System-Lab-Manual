@@ -24,7 +24,7 @@ The main goal of this repository is to:
 - **Zain**
 
 ## 👩‍🏫 Instructor
-- **Mam Aiesh Riaz**
+- **Mam Ayesha Riaz**
 
 ## 🎓 Intended For
 - Computer Science students
